@@ -58,4 +58,4 @@ Frontend Developer | 📷 Street Photographer | 🎬 Video Creator
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=cerebralatlas&color=blueviolet)
