@@ -39,8 +39,8 @@ Frontend Developer | 📷 Street Photographer | 🎬 Video Creator
 
 ## 📊 GitHub Stats
 
-![Cerebral's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Cerebral's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerebralatlas&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerebralatlas&layout=compact&theme=radical)  
 
 ---
 
