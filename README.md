@@ -46,7 +46,7 @@ Frontend Developer | 📷 Street Photographer | 🎬 Video Creator
 
 ## 🚀 Featured Projects
 
-- [📦 NestKanban](https://github.com/cerebralatlas/nest-kanban) - Kanban board built with NestJS
+- [📦 Zenban](https://github.com/cerebralatlas/Zenban) - Kanban board built with NestJS + NextJS
 - [📊 InsightFlow](https://github.com/cerebralatlas/InsightFlow) - A real-time user behavior analytics platform with multi-access support
 
 ---
