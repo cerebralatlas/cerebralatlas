@@ -37,13 +37,6 @@ Frontend Developer | 📷 Street Photographer | 🎬 Video Creator
 
 ---
 
-## 📊 GitHub Stats
-
-![Cerebral's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerebralatlas&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerebralatlas&layout=compact&theme=radical)  
-
----
-
 ## 🚀 Featured Projects
 
 - [📦 Zenban](https://github.com/cerebralatlas/Zenban) - Kanban board built with NestJS + NextJS
