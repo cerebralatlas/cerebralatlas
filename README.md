@@ -3,8 +3,8 @@
 > **Frontend Developer** building with **Next.js 15**, **Vue**, and **Node.js**.  
 > Documenting reality through Street Photography & Video.
 
-- 🔭 **Current Focus:** Serverless Arch, Supabase, Three.js/WebGL
-- 🛠 **Core Stack:** TypeScript, React, Vue, NestJS, PostgreSQL, Docker
+- 🔭 **Current Focus:** Serverless Arch, Supabase, Three.js/WebGL, FullStack
+- 🛠 **Core Stack:** TypeScript, React, Vue, NestJS, Bun, Golang, PostgreSQL, Docker
 - 🚀 **Projects:** [Zenban](https://github.com/cerebralatlas/Zenban) (Kanban App) & [InsightFlow](https://github.com/cerebralatlas/InsightFlow) (Analytics)
 
 ---
