@@ -1,54 +1,11 @@
-# 👋 Hi, I'm Cerebral Atlas  
+# Cerebral Atlas 📷
 
-Frontend Developer | 📷 Street Photographer | 🎬 Video Creator  
+> **Frontend Developer** building with **Next.js 15**, **Vue**, and **Node.js**.  
+> Documenting reality through Street Photography & Video.
 
----
-
-## 🚀 About Me
-- 💻 Frontend Developer (React / Vue / Next.js / Node.js)
-- 🌐 Exploring **Next.js 15 + Supabase + Serverless + Nest.js**
-- 🎨 Currently learning **Canvas / SVG / Three.js**
-- 📷 Street photography lover, documenting city life
-- 🎬 Video creator (editing, color grading, storytelling)
-- ✨ Motto: *“Code & Capture Moments”*  
+- 🔭 **Current Focus:** Serverless Arch, Supabase, Three.js/WebGL
+- 🛠 **Core Stack:** TypeScript, React, Vue, NestJS, PostgreSQL, Docker
+- 🚀 **Projects:** [Zenban](https://github.com/cerebralatlas/Zenban) (Kanban App) & [InsightFlow](https://github.com/cerebralatlas/InsightFlow) (Analytics)
 
 ---
-
-## 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
-![Vue](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-
----
-
-## 🎮 Developer RPG Skill Tree
-
-- 🧠 Frontend Mastery +20  
-- ⚡ Backend with Node.js +15  
-- 🗄 Database (MySQL / Redis / PostgreSQL) +10  
-- 🎨 Visual Creativity (Photography & Video Editing) +25  
-
----
-
-## 🚀 Featured Projects
-
-- [📦 Zenban](https://github.com/cerebralatlas/Zenban) - Kanban board built with NestJS + NextJS
-- [📊 InsightFlow](https://github.com/cerebralatlas/InsightFlow) - A real-time user behavior analytics platform with multi-access support
-
----
-
-## 🌐 Connect with Me
-
-- 📷 [Street Photography on Instagram](https://www.instagram.com/cerebral_atlas)  
-- 📝 [Blog / Website](https://www.cerebralatlas.me)  
-
----
-
-![Visitors](https://komarev.com/ghpvc/?username=cerebralatlas&color=blueviolet)
+Connect: [Website](https://www.cerebralatlas.me) · [Instagram](https://www.instagram.com/cerebral_atlas) · ![Visitor Count](https://komarev.com/ghpvc/?username=cerebralatlas&style=flat-square&label=Views&color=blueviolet)
