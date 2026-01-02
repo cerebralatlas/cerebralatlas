@@ -4,7 +4,7 @@
 > Documenting reality through Street Photography & Video.
 
 - 🔭 **Current Focus:** Serverless Arch, Supabase, Three.js/WebGL, FullStack
-- 🛠 **Core Stack:** TypeScript, React, Vue, NestJS, Bun, Golang, PostgreSQL, Docker
+- 🛠 **Core Stack:** TypeScript, React, Vue, NestJS, Bun, Golang, Mysql, PostgreSQL, Docker
 - 🚀 **Projects:** [Zenban](https://github.com/cerebralatlas/Zenban) (Kanban App) & [InsightFlow](https://github.com/cerebralatlas/InsightFlow) (Analytics)
 
 ---
